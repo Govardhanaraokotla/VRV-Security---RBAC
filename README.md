@@ -61,7 +61,6 @@ Open your browser and navigate to the following endpoints:
 - 🌐 **Home**: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 - 🔒 **Login**: [http://127.0.0.1:5000/login](http://127.0.0.1:5000/login)
 - 📝 **Register**: [http://127.0.0.1:5000/register](http://127.0.0.1:5000/register)
-- 🔹 **Dashboard**: [http://127.0.0.1:5000/dashboard](http://127.0.0.1:5000/dashboard)
 
 ---
 
