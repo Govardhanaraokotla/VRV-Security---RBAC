@@ -78,7 +78,7 @@ Open your browser and navigate to the following endpoints:
 ## 🎨 Screenshots
 
 ### 🏠 Home Page
-![Screenshot (1313)](https://github.com/user-attachments/assets/6808cf51-0f17-4a74-8114-2c842b061fd0)
+![Screenshot (1317)](https://github.com/user-attachments/assets/ce83d200-6fd2-41b8-95f6-258410dd1310)
 
 ### 🔒 Login Page
 ![Screenshot (1314)](https://github.com/user-attachments/assets/b1cbba15-9feb-4b2a-9c24-f0df2e4b23be)
